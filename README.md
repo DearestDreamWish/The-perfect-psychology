@@ -1,7 +1,7 @@
 # The-perfect-psychology
 A thought of the perfect psychology.
 
-Mental:
+- Mental:
 + When negative affect or effect make to gain positive effect and affect from the negative.
 + Positive for conscious and subconscious parallel thinking.
 + Positive for conscious and subconscious asynchronous thinking.
