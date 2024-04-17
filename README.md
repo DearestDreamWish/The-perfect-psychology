@@ -140,6 +140,8 @@ Note: These are learning objectives – not learning activities. It may be usefu
 			Design efficient project workflow.
 		Create + Metacognitive
 			Create a learning portfolio.
+
+
 + Alternative:
 
 Knowledge: list, define, tell, describe, identify, show, label, collect, examine, tabulate, quote, name, who, when and where
@@ -157,62 +159,62 @@ Evaluation: assess, decide, rank, grade, test, measure, recommend, convince, sel
 
 
 Behaviour:
-Positive to be reactive and proactive.
-Positive to change whenever needed.
-Positive to be better and improve.
-Positive to create.
-Positive to plan.
-Positive to concentrate when needed.
-Positive to analyze.
-Positive to predict.
-Positive to be positive and constructive.
-Positive to support emotional and logical while being aware of such.
-Positive to be stable and unstable when needed.
-Positive to motivate.
-Positive to be aware and real.
-Positive to take action when needed.
-Positive to have good habits.
-Positive to be kind, gentle and well-mannered.
-Positive to be athletic.
-Positive to train mind and body.
-Positive to meditate.
-Positive to be adventurous when needed.
-Positive to be alerted without making it obvious but obvious when needed.
-Positive to earn.
-Positive to be clean in every way.
-Positive to be aware of fashion.
-Positive to be courteous.
-Positive to be a dreamer and realist.
-Positive to have personality.
-Positive to differentiate when needed.
-Positive to be fair when needed.
-Positive to be serious when needed.
-Positive to be sexy when needed.
-Positive to be generous when it's okay.
-Positive to be funny when needed.
-Positive to be sympathetic and empathetic when needed.
-Positive to seek knowledge.
-Positive to seek power.
-Positive to have friends.
-Positive to have a partner.
-Positive to have children when it's okay.
-Positive to be tough.
-Positive to learn.
-Positive to be responsible.
-Positive to be intelligent.
-Positive to be tolerant and patient.
-Positive to be understanding.
-Positive to be trustworthy.
-Positive to be leader.
-Positive to be diligent.
-Positive to work hard.
-Positive to negotiate.
-Positive to work.
-Positive to take a pause when needed.
-Positive to not waste time.
-Positive to always do something helpful when needed.
-Positive to win when needed.
-Positive to be healthy in every way.
-Positive to give wisdom and knowledge when needed.
++ Positive to be reactive and proactive.
++ Positive to change whenever needed.
++ Positive to be better and improve.
++ Positive to create.
++ Positive to plan.
++ Positive to concentrate when needed.
++ Positive to analyze.
++ Positive to predict.
++ Positive to be positive and constructive.
++ Positive to support emotional and logical while being aware of such.
++ Positive to be stable and unstable when needed.
++ Positive to motivate.
++ Positive to be aware and real.
++ Positive to take action when needed.
++ Positive to have good habits.
++ Positive to be kind, gentle and well-mannered.
++ Positive to be athletic.
++ Positive to train mind and body.
++ Positive to meditate.
++ Positive to be adventurous when needed.
++ Positive to be alerted without making it obvious but obvious when needed.
++ Positive to earn.
++ Positive to be clean in every way.
++ Positive to be aware of fashion.
++ Positive to be courteous.
++ Positive to be a dreamer and realist.
++ Positive to have personality.
++ Positive to differentiate when needed.
++ Positive to be fair when needed.
++ Positive to be serious when needed.
++ Positive to be sexy when needed.
++ Positive to be generous when it's okay.
++ Positive to be funny when needed.
++ Positive to be sympathetic and empathetic when needed.
++ Positive to seek knowledge.
++ Positive to seek power.
++ Positive to have friends.
++ Positive to have a partner.
++ Positive to have children when it's okay.
++ Positive to be tough.
++ Positive to learn.
++ Positive to be responsible.
++ Positive to be intelligent.
++ Positive to be tolerant and patient.
++ Positive to be understanding.
++ Positive to be trustworthy.
++ Positive to be leader.
++ Positive to be diligent.
++ Positive to work hard.
++ Positive to negotiate.
++ Positive to work.
++ Positive to take a pause when needed.
++ Positive to not waste time.
++ Positive to always do something helpful when needed.
++ Positive to win when needed.
++ Positive to be healthy in every way.
++ Positive to give wisdom and knowledge when needed.
 
-I may be update another time.
+It may be update another time.
