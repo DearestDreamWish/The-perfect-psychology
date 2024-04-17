@@ -1,7 +1,7 @@
 # The-perfect-psychology
 A thought of the perfect psychology.
 
-- Mental:
+# Mental:
 + When negative affect or effect make to gain positive effect and affect from the negative.
 + Positive for conscious and subconscious parallel thinking.
 + Positive for conscious and subconscious asynchronous thinking.
@@ -77,7 +77,7 @@ Planning is about coming up with a procedure for completing a task (e.g., prepar
 Producing means inventing a product (e.g., writing a short story that takes place during the American Revolution).
 
 
-Example:
+# Example:
 Bloom’s Revised Taxonomy Model (Responsive)
 Note: These are learning objectives – not learning activities. It may be useful to think of preceding each objective with something like, “students will be able to…:
 1. The Knowledge Dimension
@@ -142,7 +142,7 @@ Note: These are learning objectives – not learning activities. It may be usefu
 			Create a learning portfolio.
 
 
-+ Alternative:
+# Alternative:
 
 Knowledge: list, define, tell, describe, identify, show, label, collect, examine, tabulate, quote, name, who, when and where
 
@@ -158,7 +158,7 @@ Evaluation: assess, decide, rank, grade, test, measure, recommend, convince, sel
 
 
 
-Behaviour:
+# Behaviour:
 + Positive to be reactive and proactive.
 + Positive to change whenever needed.
 + Positive to be better and improve.
