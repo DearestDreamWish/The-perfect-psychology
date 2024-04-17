@@ -1,5 +1,5 @@
 # The-perfect-psychology
-A thought of the perfect psychology.
+A thought about the perfect psychology.
 
 # Mental:
 + When negative affect or effect make to gain positive effect and affect from the negative.
