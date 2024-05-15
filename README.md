@@ -1,7 +1,15 @@
 # The-perfect-psychology
 A thought about the perfect psychology.
 
+1. Mental
+2. Example
+3. Alternative
+4. Behaviour
+
+I may be updated another time.
+
 # Mental:
++ Positive to use deduction, induction, tendencies and data based info.
 + When negative affect or effect make to gain positive effect and affect from the negative.
 + Positive for conscious and subconscious parallel thinking.
 + Positive for conscious and subconscious asynchronous thinking.
@@ -26,7 +34,8 @@ A thought about the perfect psychology.
 2. Responding: React to, answer, assist, comply, discuss and report
 3. Valuing: Complete, differentiate, explain, justify, propose, select and share
 4. Organizing: Arranging, combine, compare, complete, explain, identify, integrate and modify
-5. Characterizing:  Act, discriminate, modify, perform, practice, quantify, question, revise and verify
+5. Characterizing:  Act, discri
+6. minate, modify, perform, practice, quantify, question, revise and verify
 + Iterate when needed for motoric skills through:
 1. Perception and awareness: Choose, describe, distinguish, identify, isolate, relate and select
 2. Set: Begin, display, explain, proceed, react and show
@@ -75,7 +84,6 @@ The three associated cognitive processes are:
 Generating involves coming up with alternative hypotheses based on criteria. An example might be devising multiple solutions for a social problem.
 Planning is about coming up with a procedure for completing a task (e.g., preparing an outline of an article).
 Producing means inventing a product (e.g., writing a short story that takes place during the American Revolution).
-
 
 # Example:
 Bloom’s Revised Taxonomy Model (Responsive)
